@@ -1,0 +1,9 @@
+C:\Users\Andrea\Downloads\GestionFlotaProject\GestionFlotaProject\bin\x86\Debug\GestionFlotaProject.exe.config
+C:\Users\Andrea\Downloads\GestionFlotaProject\GestionFlotaProject\bin\x86\Debug\GestionFlotaProject.exe
+C:\Users\Andrea\Downloads\GestionFlotaProject\GestionFlotaProject\bin\x86\Debug\GestionFlotaProject.pdb
+C:\Users\Andrea\Downloads\GestionFlotaProject\GestionFlotaProject\obj\x86\Debug\GestionFlotaProject.csprojAssemblyReference.cache
+C:\Users\Andrea\Downloads\GestionFlotaProject\GestionFlotaProject\obj\x86\Debug\GestionFlotaProject.Properties.Resources.resources
+C:\Users\Andrea\Downloads\GestionFlotaProject\GestionFlotaProject\obj\x86\Debug\GestionFlotaProject.csproj.GenerateResource.cache
+C:\Users\Andrea\Downloads\GestionFlotaProject\GestionFlotaProject\obj\x86\Debug\GestionFlotaProject.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\Downloads\GestionFlotaProject\GestionFlotaProject\obj\x86\Debug\GestionFlotaProject.exe
+C:\Users\Andrea\Downloads\GestionFlotaProject\GestionFlotaProject\obj\x86\Debug\GestionFlotaProject.pdb
